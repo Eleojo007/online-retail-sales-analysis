@@ -2,13 +2,17 @@
 /*
 Project: Online Retail Sales Analysis
 Dataset: UCI Online Retail Dataset
-Author: Philip Hosea Eleojo
 
 Description:
-This script contains all data cleaning, validation,
-standardization and feature engineering steps performed
-before exploratory data analysis.
+Complete data cleaning workflow including:
+- Duplicate removal
+- Data standardization
+- Missing value handling
+- Description correction mapping
+- Revenue generation
+- Transaction quality flags
 */
+
 -- INSPECT DATA
 
 SELECT *
