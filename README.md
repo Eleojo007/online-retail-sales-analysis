@@ -1,5 +1,3 @@
-<img width="4032" height="204" alt="image" src="https://github.com/user-attachments/assets/8ea1e05a-d59f-4512-b4b0-46d84b6e9c91" /># Online Retail Sales Analysis (2010–2011)
-
 ## Project Overview
 
 This project analyzes the UCI Online Retail dataset using MySQL and Tableau.
