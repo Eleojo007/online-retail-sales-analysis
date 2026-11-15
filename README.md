@@ -1,4 +1,4 @@
-# Online Retail Sales Analysis (2010–2011)
+<img width="4032" height="204" alt="image" src="https://github.com/user-attachments/assets/8ea1e05a-d59f-4512-b4b0-46d84b6e9c91" /># Online Retail Sales Analysis (2010–2011)
 
 ## Project Overview
 
@@ -121,21 +121,46 @@ The following business questions were explored:
 
 ## Dashboards
 
-### Executive Revenue Overview
+Dashboard 1: Executive Revenue Overview
 
-Revenue KPIs, monthly revenue trends, return impact, and revenue growth analysis.
+Key Insights
+- Product Sales Revenue: £10.26M
+- Net Recorded Revenue: £9.73M
+- Revenue Lost to Returns: £893.98K
 
-### Product Performance
+![Executive Revenue Overview](Dashboard_Images/Executive_Revenue_Overview.png)
+This dashboard provides an executive-level overview of revenue performance, monthly revenue trends, return impact, and revenue growth between 2010 and 2011.
 
-Revenue and volume analysis of top-performing products.
 
-### Customer Performance
+Dashboard 2: Product Performance
 
-Customer revenue contribution and customer segmentation analysis.
+Key Insights
+- Regency Cakestand 3 Tier generated the highest revenue.
+- Paper Craft, Little Birdie recorded the highest sales volume.
 
-### Market Performance
+![Product Performance](Dashboard_Images/Product_Performance.png)
+This dashboard compares top-performing products by revenue and sales volume.
 
-Country-level revenue analysis and international market performance.
+
+Dashboard 3: Customer Performance
+
+Key Insights
+- Registered customers generated approximately 85% of total revenue.
+- The top 10 customers contributed a significant share of revenue.
+
+![Customer Performance](Dashboard_Images/Customer_Performance.png)
+This dashboard explores customer revenue contribution and customer segmentation.
+
+
+Dashboard 4: Market Performance
+
+Key Insights
+- The United Kingdom contributed approximately 87% of total revenue.
+- The Netherlands was the highest-performing international market.
+
+![Market Performance](Dashboard_Images/Market_Performance.png)
+This dashboard highlights market concentration and international revenue performance.
+
 
 ---
 
